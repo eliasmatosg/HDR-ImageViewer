@@ -1,5 +1,7 @@
 # HDR-ImageViewer
 
+Descrição do trabalho: https://mflash.github.io/progswb2/trab/t1-211-nklwefy6d87yhiuekrgfv/index.html
+
 Trabalho feito para a disciplina de Programação de Baixo Nível do Curso de Ciência da Computação da PUCRS. Trabalho feito em dupla com Lucas Andreotti (https://github.com/LucasAndreotti)
 
 Compilação e execução
